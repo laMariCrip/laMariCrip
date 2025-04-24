@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 
-- I’m currently learning everything related to Web development 😄
+- 🌱 I’m currently learning everything related to Web development 😄
 - 👯 I’m looking to collaborate on DAW projects 🤝
 - 📫 Reach me at criptana99@gmail.com
-- ⚡ Fun fact: al little bit marujilla
+- ⚡ Fun fact: al little bit marujilla 😁
 
 
 <!--
