@@ -4,7 +4,7 @@
 - I’m currently learning everything related to Web development 😄
 - 👯 I’m looking to collaborate on DAW projects 🤝
 - 📫 Reach me at criptana99@gmail.com
--  I'm a loving mother of two gorgeous children 💖💖💖💖
+
 
 <!--
 **laMariCrip/laMariCrip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
