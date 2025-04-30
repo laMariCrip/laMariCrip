@@ -6,7 +6,7 @@
 - 📫 Reach me at my E-mail adress
 - ⚡ Fun fact: al little bit marujilla 😁
 
-- ## 📫 Contacto
+## 📫 Contacto
 
 - 📧 [criptana99@email.com](mailto:criptana99@email.com)
 
