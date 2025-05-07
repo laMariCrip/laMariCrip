@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything related to Web development 😄
 - 👯 I’m looking to collaborate on DAW projects 🤝
 - 📫 Reach me at my E-mail adress
-- ⚡ Fun fact: al little bit marujilla 😁
+- ⚡ Fun fact: a little bit marujilla 😁
 
 ## 📫 Contacto
 
